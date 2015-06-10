@@ -1,0 +1,33 @@
+{
+  "name": "batchsql",
+  "version": "1.0.4",
+  "description": "Batch sql generator for MySQL and MariaDB",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^3.9.3",
+    "mysql": "^2.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mugendi/batchsql.git"
+  },
+  "keywords": [
+    "mysql",
+    "query",
+    "queries",
+    "batch",
+    "maria",
+    "mariadb",
+    "sql"
+  ],
+  "author": "Anthony Mugendi (ngurumugz@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mugendi/batchsql/issues"
+  },
+  "homepage": "https://github.com/mugendi/batchsql"
+}
